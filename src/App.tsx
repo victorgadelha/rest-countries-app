@@ -26,9 +26,9 @@ function App() {
     }
   );
 
-  const [searchTerm, setSearchTerm] = useState<string>("");
-  const [selectedRegion, setSelectedRegion] = useState<string>("");
-  const [filteredCountries, setFilteredCountries] = useState<string>();
+  // const [searchTerm, setSearchTerm] = useState<string>("");
+  // const [selectedRegion, setSelectedRegion] = useState<string>("");
+  // const [filteredCountries, setFilteredCountries] = useState<string>();
 
   return (
     <div className="h-screen w-full bg-">
